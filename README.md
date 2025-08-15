@@ -1,7 +1,5 @@
-<!-- Running Welcome Text -->
-<marquee behavior="alternate" scrollamount="6" style="color:cyan; font-size:24px;">
-💙 Welcome to my GitHub! 💙
-</marquee>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!)](https://git.io/typing-svg)
 
 ---
 
