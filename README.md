@@ -10,6 +10,26 @@
 
 ---
 
+## 📖 About Me
+- 🌱 Currently learning **new technologies** to improve my skills  
+- 💻 Working with **HTML, CSS, JavaScript, jQuery, PHP, Laravel, MySQL, Bootstrap**  
+- 🚀 Passionate about **web development** and building creative projects  
+- 📫 Reach me anytime through my **social links above**  
+
+---
+
+## 💡 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityrana45&show_icons=true&theme=tokyonight)
 
