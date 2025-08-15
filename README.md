@@ -1,6 +1,4 @@
-# Hi 👋
-
-**Welcome to my GitHub!**  
+# Hi there👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!;Code.+Create.+Innovate.)](https://git.io/typing-svg)
 
