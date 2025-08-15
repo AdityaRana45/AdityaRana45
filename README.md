@@ -1,8 +1,9 @@
-<!-- ========== HERO SECTION (TOP) ========== -->
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi, I'm Aditya Rana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here+❤️;Coding+with+passion+%26+creativity" alt="Typing SVG" />
+  <b>Welcome to my GitHub!</b>  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Exploring+Code+%26+Creativity;Building+Cool+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <!-- ========== /HERO SECTION ========== -->
