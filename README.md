@@ -1,3 +1,20 @@
+<!-- ========== HERO SECTION (TOP) ========== -->
+<h1 align="center">Hey there 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here+❤️;Coding+with+passion+%26+creativity" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/ranaaditya">
+    <img src="https://img.shields.io/twitter/follow/ranaaditya?style=social" alt="Follow @ranaaditya on Twitter" />
+  </a>
+</p>
+<!-- ========== /HERO SECTION ========== -->
+
+
+
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!;Code.+Create.+Innovate.)](https://git.io/typing-svg)
 
