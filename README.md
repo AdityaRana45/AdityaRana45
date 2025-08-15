@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Aditya Rana 👋</h1>
+# Hi 👋
 
-<p align="center">
-  <b>Welcome to my GitHub!</b>  
-  <br>
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!)](https://git.io/typing-svg)
+**Welcome to my GitHub!**  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!;Code.+Create.+Innovate.)](https://git.io/typing-svg)
 
 ---
 
