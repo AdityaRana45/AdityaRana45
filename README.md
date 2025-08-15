@@ -1,21 +1,11 @@
 <!-- ========== HERO SECTION (TOP) ========== -->
 <h1 align="center">Hey there 👋</h1>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here+❤️;Coding+with+passion+%26+creativity" alt="Typing SVG" />
 </p>
 
-<p>
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityrana.45)
-  </a>
-</p>
 <!-- ========== /HERO SECTION ========== -->
-
-
-
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Glad+to+see+you+here!;Code.+Create.+Innovate.)](https://git.io/typing-svg)
 
 ---
 
@@ -32,6 +22,7 @@
 🛠 Creating projects that merge creativity with functionality  
 
 ---
+
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
@@ -44,4 +35,5 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white)
 
 ---
+
 ✨ *Code. Create. Innovate.*
